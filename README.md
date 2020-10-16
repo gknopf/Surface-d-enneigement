@@ -1,5 +1,5 @@
 # Surface-d-enneigement
-ette technique de de délimitation  d'enneigement et de calcul des surface d'un bassin versant en présence de uages est une variante de l'élaboration de l''enneigement d'un bassin présenté  ici
+Cette technique de de délimitation  d'enneigement et de calcul des surface d'un bassin versant en présence de uages est une variante de l'élaboration de l''enneigement d'un bassin présenté  ici
 
 https://nivo06.knobuntu.fr/index.php/technique/63-technique/340-surfaces-d-enneigement-d-un-bassin-versant
 
@@ -19,8 +19,8 @@ La solution retenue sera donc de calculer la surface des cellules élementaires 
 
 Voici un extrait du code du traitement des surfaces de neige visible
 
- 
-neigevisiblepythonLe principe:
+
+Le principe:
 
     decouper le raster FSC au dimensions du bassin( ligne 245-252)
     demander le nb de cellules en X et Y( lignes 259 et 260)
